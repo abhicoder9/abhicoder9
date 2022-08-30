@@ -1,3 +1,3 @@
-👋 H!, I'm Abhishek Shrivastava
+👋 H!, I'm Abhishek
 - Programmer
 - ballet enthusiast🕺
