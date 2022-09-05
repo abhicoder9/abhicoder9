@@ -1,3 +1,3 @@
-👋 H!, I'm Abhishek
+👋 Hi, I'm Abhishek
 - Programmer
 - ballet enthusiast🕺
