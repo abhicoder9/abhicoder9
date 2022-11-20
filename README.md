@@ -1,3 +1,4 @@
 👋 Hi, I'm Abhishek
-- Programmer
-- ballet enthusiast🕺
+- Programmer.
+
+<h3>My Skills</h3>
