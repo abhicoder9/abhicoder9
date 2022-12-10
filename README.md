@@ -1,6 +1,6 @@
 👋 Hi, I'm Abhishek
 - Programmer.
-<div display:flex><div display:flex>
+<div display:flex;><div>
 <h3>My Skills:</h3>
 
 <li>Flutter.</li>
